@@ -2,7 +2,8 @@
 
 This project is coded in C utilizing Linux - Ubuntu. 
 Database was created and modified using Sqlite3 code. 
-Front end was done using the Glade RAD Tool for GUI for the GTK toolkid and GNOME desktop environment
+Front end was done using the Glade RAD Tool to enable GUI development for the GTK toolkid 
+and GNOME desktop environment
 
 ------------Log In page---------------
 When a user wants to login they must put in user name and password. if Username and password is match 
