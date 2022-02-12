@@ -13,8 +13,6 @@
 •	Encrypts the user password with the appended salt using XOR encryption then stores the salt and encrypted password into the database to prevent against breach of user information in case the database was hacked.
 
 
-and GNOME desktop environment
-
 ------------Log In page---------------
 
 When a user wants to login they must put in user name and password. if Username and password is match 
