@@ -2,6 +2,7 @@
 
 
 ------------Design---------------
+
 •This project is a Log-In/Sign-Up system utilizing the C programming language, assembled in the linux-Ubuntu OS 
 
 •	Designed Log-In and Sign-Up windows harnessing the Glade RAD Tool enabling GUI development for the GTK toolkit and GNOME desktop environment 
@@ -10,6 +11,7 @@
 
 
 ------------Security---------------
+
 •	Ensures all passwords in the sign-up page meet privacy standards before account can be created and stored in database
 
 •	Generates a random salt (String) upon account creation to append to user password, preventing against dictionary attacks
